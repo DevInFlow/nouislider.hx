@@ -1,0 +1,17 @@
+{
+  "name": "nouislider.hx",
+  "url": "https://github.com/varadig/croppie.hx",
+  "license": "MIT",
+  "tags": [
+    "js",
+    "nouislider"
+  ],
+  "description": "Haxe externs for NoUISlider javascript library",
+  "version": "0.0.1",
+  "classPath": "src/",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {}
+}
